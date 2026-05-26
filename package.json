@@ -1,8 +1,0 @@
-{
-  "name": "academy-landing",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "@supabase/supabase-js": "^2.50.0"
-  }
-}
